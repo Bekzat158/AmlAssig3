@@ -1,0 +1,8 @@
+
+path: /home/titan/Documents/master/aml/assig3/data/yolo_data
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: pedestrian
